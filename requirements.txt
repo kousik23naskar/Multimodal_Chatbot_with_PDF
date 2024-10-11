@@ -1,0 +1,15 @@
+python-dotenv
+pillow
+pydantic
+lxml
+langchain
+langchain-experimental
+langchain-google-genai
+unstructured-pytesseract
+unstructured[all-docs]
+chromadb
+datasets
+ragas
+streamlit
+-e .
+#cuda-python
