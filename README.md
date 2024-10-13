@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/kousik23naskar/Multimodal_Chatbot_with_PDF.git
+   git clone https://github.com/kousik23naskar/Multimodal_Conversational_Assistant.git
    ```
 2. **Navigate to the project directory:**
   ```bash
