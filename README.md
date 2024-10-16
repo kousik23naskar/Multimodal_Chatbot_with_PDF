@@ -3,7 +3,7 @@
   <img src="image/Multimodal_chat_1.png" alt="Multimodal Conversational Assistant" width="600"/>
 </p>
 <p>
-  Welcome to the Multimodal Conversational Assistant project! This repository contains code and resources for retrieving information from various sources, specifically focused on uploaded PDF documents. Our goal is to provide an intuitive interface for querying and extracting information effectively, utilizing images, text, and tables.
+  Welcome to the Multimodal Conversational Assistant project! This repository contains code and resources for retrieving information from uploaded PDF documents. Our goal is to provide an intuitive interface for querying and extracting information effectively, utilizing images, text, and tables.
 </p>
 
 ## Project Overview 💡
